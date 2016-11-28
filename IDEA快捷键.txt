@@ -1,0 +1,19 @@
+1.写代码时用Alt-Insert（Code|Generate…）可以创建类里面任何字段的getter与setter方法。
+2.按Ctrl-N再键入类的名字可以快速地在编辑器里打开任何一个类。从显示出来的下拉列表里选择类。同样的方法你可以通过使用Ctrl-Shift-N打开工程中的非Java文件。
+3.Ctrl-D复制当前行，Ctrl-Y删除当前行。
+4.Ctrl-Shift-u，Ctrl+Shift+alt+u显示类继承结构图，再按alt-m。
+5.Alt-F1，回到当前文件所在的目录结构。
+6.Ctrl-Shift-v，粘贴最近复制过的一些信息。
+7.Ctrl-Shift-F7，高亮显示所有该文本，按Esc高亮消失。
+8.Ctrl-E 最近打开的文件。
+9.Ctrl-P 方法参数提示。
+10.Alt+ Up/Down 在方法间快速移动定位。
+11.Ctrl+W 选中代码，连续按会有其他效果。
+12.Shift + F6 选中目录结构的文件，重命名
+13.Ctrl + Alt + F12 进入当前文件所在磁盘位置
+14.Ctrl + Shift + F搜索文件
+15.Ctrl + Shift + R 搜索指定范围文件，替换文字
+16.Ctrl + Shift +W 返回上一次选择的代码块状态
+17.Ctrl + Shift + J 自动将下一行合并到当前行末尾
+16.Ctrl + Tab Switcher 导航 与 Ctrl + E 类似效果
+17.Ctrl + Shift + C 复制当前文件磁盘路径到剪贴板
