@@ -17,3 +17,6 @@
 17.Ctrl + Shift + J 自动将下一行合并到当前行末尾
 16.Ctrl + Tab Switcher 导航 与 Ctrl + E 类似效果
 17.Ctrl + Shift + C 复制当前文件磁盘路径到剪贴板
+
+
+2016年11月28日 16:40:35
